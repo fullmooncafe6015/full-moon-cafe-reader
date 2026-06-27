@@ -34,7 +34,7 @@
           "https://full-moon-cafe.up.railway.app/umm/vol01/ch01/22.jpg"
         ]
       },
-      "last_updated": "1782479953"
+      "last_updated": "1782529328"
     },
     "2": {
       "title": "Chapter 2 - (Eishin Flash - Smart Falcon)",
@@ -59,7 +59,7 @@
           "https://full-moon-cafe.up.railway.app/umm/vol01/ch02/16.jpg"
         ]
       },
-      "last_updated": "1782479984"
+      "last_updated": "1782529334"
     },
     "3": {
       "title": "Chapter 3 - (Oguri Cap - Tamamo Cross)",
@@ -83,7 +83,7 @@
           "https://full-moon-cafe.up.railway.app/umm/vol01/ch03/15.jpg"
         ]
       },
-      "last_updated": "1782480022"
+      "last_updated": "1782529343"
     },
     "4": {
       "title": "Chapter 4 - (Daiwa Scarlet - Vodka)",
@@ -109,7 +109,7 @@
           "https://full-moon-cafe.up.railway.app/umm/vol01/ch04/17.jpg"
         ]
       },
-      "last_updated": "1782480055"
+      "last_updated": "1782529354"
     },
     "5": {
       "title": "Chapter 5 - (Gold City - Yukino Bijin)",
@@ -133,7 +133,1229 @@
           "https://full-moon-cafe.up.railway.app/umm/vol01/ch05/15.jpg"
         ]
       },
-      "last_updated": "1782480074"
+      "last_updated": "1782529365"
+    },
+    "6": {
+      "title": "Chapter 6 - (Agnes Tachyon - Air Shakur)",
+      "volume": "1",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch06/16.jpg"
+        ]
+      },
+      "last_updated": "1782529406"
+    },
+    "7": {
+      "title": "Chapter 7 - (Nice Nature - Twin Turbo)",
+      "volume": "1",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch07/16.jpg"
+        ]
+      },
+      "last_updated": "1782529445"
+    },
+    "8": {
+      "title": "Chapter 8 - (Curren Chan - Admire Vega)",
+      "volume": "1",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch08/16.jpg"
+        ]
+      },
+      "last_updated": "1782529471"
+    },
+    "9": {
+      "title": "Chapter 9 - (Sakura Chiyono O - Maruzensky)",
+      "volume": "1",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch09/17.jpg"
+        ]
+      },
+      "last_updated": "1782529506"
+    },
+    "10": {
+      "title": "Chapter 10 - (Mihono Bourbon - Rice Shower)",
+      "volume": "1",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol01/ch10/17.jpg"
+        ]
+      },
+      "last_updated": "1782529525"
+    },
+    "11": {
+      "title": "Chapter 11 - (El Condor Pasa - Grass Wonder)",
+      "volume": "2",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch11/17.jpg"
+        ]
+      },
+      "last_updated": "1782529752"
+    },
+    "12": {
+      "title": "Chapter 12 - (Mejiro McQueen - Gold Ship)",
+      "volume": "2",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch12/17.jpg"
+        ]
+      },
+      "last_updated": "1782529790"
+    },
+    "13": {
+      "title": "Chapter 13 - (Narita Taishin - Super Creek)",
+      "volume": "2",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch13/16.jpg"
+        ]
+      },
+      "last_updated": "1782529821"
+    },
+    "14": {
+      "title": "Chapter 14 - (Mejiro Ryan - Mejiro Dober)",
+      "volume": "2",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch14/16.jpg"
+        ]
+      },
+      "last_updated": "1782529847"
+    },
+    "15": {
+      "title": "Chapter 15 - (Matikanefukukitaru - Matikanetannhauser)",
+      "volume": "2",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch15/15.jpg"
+        ]
+      },
+      "last_updated": "1782529887"
+    },
+    "16": {
+      "title": "Chapter 16 - (Nishino Flower - Seiun Sky)",
+      "volume": "2",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch16/16.jpg"
+        ]
+      },
+      "last_updated": "1782529908"
+    },
+    "17": {
+      "title": "Chapter 17 - (Bamboo Memory - Yaeno Muteki)",
+      "volume": "2",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch17/17.jpg"
+        ]
+      },
+      "last_updated": "1782529939"
+    },
+    "18": {
+      "title": "Chapter 18 - (Fine Motion - Air Shakur)",
+      "volume": "2",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch18/14.jpg"
+        ]
+      },
+      "last_updated": "1782529957"
+    },
+    "19": {
+      "title": "Chapter 19 - (Biwa Hayahide - TM Opera O)",
+      "volume": "2",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol02/ch19/16.jpg"
+        ]
+      },
+      "last_updated": "1782529982"
+    },
+    "21": {
+      "title": "Chapter 21 - (Tosen Jordan - Nakayama Festa)",
+      "volume": "3",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/17.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch21/18.jpg"
+        ]
+      },
+      "last_updated": "1782530031"
+    },
+    "22": {
+      "title": "Chapter 22 - (Tokai Teio - Tsurumaru Tsuyoshi)",
+      "volume": "3",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch22/17.jpg"
+        ]
+      },
+      "last_updated": "1782530058"
+    },
+    "23": {
+      "title": "Chapter 23 - (Copano Rickey - Wonder Acute - Hokko Tarumae)",
+      "volume": "3",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch23/16.jpg"
+        ]
+      },
+      "last_updated": "1782530092"
+    },
+    "24": {
+      "title": "Chapter 24 - (Sweep Tosho - Zenno Rob Roy)",
+      "volume": "3",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch24/17.jpg"
+        ]
+      },
+      "last_updated": "1782530121"
+    },
+    "25": {
+      "title": "Chapter 25 - (Daitaku Helios - Mejiro Palmer - Ines Fujin)",
+      "volume": "3",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch25/16.jpg"
+        ]
+      },
+      "last_updated": "1782530161"
+    },
+    "26": {
+      "title": "Chapter 26 - (Agnes Tachyon - Manhattan Cafe)",
+      "volume": "3",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch26/17.jpg"
+        ]
+      },
+      "last_updated": "1782530181"
+    },
+    "28": {
+      "title": "Chapter 28 - (King Halo - Kawakami Princess)",
+      "volume": "3",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch28/16.jpg"
+        ]
+      },
+      "last_updated": "1782530226"
+    },
+    "29": {
+      "title": "Chapter 29 - (Air Groove - Symboli Rudolf)",
+      "volume": "3",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch29/16.jpg"
+        ]
+      },
+      "last_updated": "1782530258"
+    },
+    "30": {
+      "title": "Chapter 30 - (Kitasan Black - Satono Diamond)",
+      "volume": "3",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol03/ch30/16.jpg"
+        ]
+      },
+      "last_updated": "1782530288"
+    },
+    "31": {
+      "title": "Chapter 31 - (Narita Top Road - Hishi Miracle)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch31/16.jpg"
+        ]
+      },
+      "last_updated": "1782542312"
+    },
+    "32": {
+      "title": "Chapter 32 - (Happy Meek - Aoi Kiryuin)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch32/16.jpg"
+        ]
+      },
+      "last_updated": "1782542579"
+    },
+    "33": {
+      "title": "Chapter 33 - (Narita Brian - Sakura Laurel)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch33/16.jpg"
+        ]
+      },
+      "last_updated": "1782542629"
+    },
+    "35": {
+      "title": "Chapter 35 - (Nice Nature - Ikuno Dictus)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch35/16.jpg"
+        ]
+      },
+      "last_updated": "1782542662"
+    },
+    "36": {
+      "title": "Chapter 36 - (Tsurumaru Tsuyoshi - Mejiro Bright)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch36/16.jpg"
+        ]
+      },
+      "last_updated": "1782542706"
+    },
+    "37": {
+      "title": "Chapter 37 - (Hishi Akebono - Biko Pegasus - El Condor Pasa)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch37/16.jpg"
+        ]
+      },
+      "last_updated": "1782542730"
+    },
+    "38": {
+      "title": "Chapter 38 - (Sakura Bakushin O - Sakura Chiyono O)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch38/16.jpg"
+        ]
+      },
+      "last_updated": "1782542788"
+    },
+    "39": {
+      "title": "Chapter 39 - (KS Miracle - Yamanin Zephyr)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch39/16.jpg"
+        ]
+      },
+      "last_updated": "1782542821"
+    },
+    "40": {
+      "title": "Chapter 40 - (Vivlos - Verxina - Cheval Grand)",
+      "volume": "4",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol04/ch40/16.jpg"
+        ]
+      },
+      "last_updated": "1782542844"
+    },
+    "42": {
+      "title": "Chapter 42 - (Narita Top Road - Admire Vega)",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch42/16.jpg"
+        ]
+      },
+      "last_updated": "1782542984"
+    },
+    "43": {
+      "title": "Chapter 43 - (Jungle Pocket - Fuji Kiseki)",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch43/16.jpg"
+        ]
+      },
+      "last_updated": "1782543026"
+    },
+    "44": {
+      "title": "Chapter 44 - (Montjeu - Venus Paques)",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44/16.jpg"
+        ]
+      },
+      "last_updated": "1782543049"
+    },
+    "45": {
+      "title": "Chapter 45 - (Satono Crown - Duramente)",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch45/16.jpg"
+        ]
+      },
+      "last_updated": "1782543134"
+    },
+    "46": {
+      "title": "Chapter 46 - (Hishi Miracle - Dantsu Flame)",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch46/16.jpg"
+        ]
+      },
+      "last_updated": "1782543160"
+    },
+    "47": {
+      "title": "Chapter 47 - (Daiichi Ruby - Mr CB)",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch47/16.jpg"
+        ]
+      },
+      "last_updated": "1782543184"
+    },
+    "49": {
+      "title": "Chapter 49 - (TM Opera O - Haru Urara)",
+      "volume": "5",
+      "groups": {
+        "worldstar": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch49/15.jpg"
+        ]
+      },
+      "last_updated": "1782543223"
+    },
+    "50": {
+      "title": "Chapter 50 - (Mejiro McQueen - Tokai Teio)",
+      "volume": "6",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch50/17.jpg"
+        ]
+      },
+      "last_updated": "1782543255"
+    },
+    "52": {
+      "title": "Chapter 52 - (Daiwa Scarlet - Eishin Flash)",
+      "volume": "6",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch52/17.jpg"
+        ]
+      },
+      "last_updated": "1782543291"
+    },
+    "53": {
+      "title": "Chapter 53 - (Curren Chan - Smart Falcon)",
+      "volume": "6",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch53/17.jpg"
+        ]
+      },
+      "last_updated": "1782543311"
+    },
+    "55": {
+      "title": "Chapter 55 - Golden Generation",
+      "volume": "6",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch55/17.jpg"
+        ]
+      },
+      "last_updated": "1782543352"
+    },
+    "57": {
+      "title": "Chapter 57 - (Tazuna Hayakawa - Light Hello - Mei Satake)",
+      "volume": "6",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol06/ch57/17.jpg"
+        ]
+      },
+      "last_updated": "1782543401"
+    },
+    "68": {
+      "title": "Chapter 68 - (Sirius Symboli - Rigantona)",
+      "volume": "7",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol07/ch68/16.jpg"
+        ]
+      },
+      "last_updated": "1782543440"
+    },
+    "70": {
+      "title": "Chapter 70",
+      "volume": "8",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/16.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70/17.jpg"
+        ]
+      },
+      "last_updated": "1782543469"
+    },
+    "41.5": {
+      "title": "Chapter 41.5 - GOCHI WEEK Special Edition",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch41.5/08.jpg"
+        ]
+      },
+      "last_updated": "1782542934"
+    },
+    "44.5": {
+      "title": "Chapter 44.5 - Great Food Festival Special Edition",
+      "volume": "5",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol05/ch44.5/09.jpg"
+        ]
+      },
+      "last_updated": "1782543094"
+    },
+    "70.5": {
+      "title": "Chapter 70.5 - Game 5th Anniversary Special Edition",
+      "volume": "8",
+      "groups": {
+        "Full Moon Cafe": [
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/01.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/02.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/03.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/04.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/05.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/06.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/07.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/08.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/09.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/10.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/11.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/12.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/13.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/14.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/15.jpg",
+          "https://full-moon-cafe.up.railway.app/umm/vol08/ch70.5/16.jpg"
+        ]
+      },
+      "last_updated": "1782543512"
     }
   }
 }
